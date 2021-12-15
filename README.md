@@ -1,4 +1,4 @@
-# DeepMind Educational Resources
+# DeepMind Educational Resources  
 
 This repository contains a collection of educational resources that we have
 prepared for teaching the basics of machine learning to various audiences. The
